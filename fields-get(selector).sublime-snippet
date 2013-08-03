@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+fields->get("${1:selector}");
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fields->get()</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
