@@ -23,4 +23,6 @@ I'm looking into the best way to add important bits of documentation for the les
 
 Hope this speeds up your already speedy site development with ProcessWire.  :)
 
+I'm [evanmcd](https://twitter.com/evanmcd) on Twitter - best way to reach me is there if you have any questions or comments.
+
 
