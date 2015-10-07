@@ -1,7 +1,7 @@
 Sublime ProcessWire Snippets - Basic
 ==================================
 
-A collection of [ProcessWire](http://www.processwire.com) Snippets for Sublime Text 2.  These are based on the [ProcessWire2+ Cheatsheet version 1.1](http://cheatsheet.processwire.com).  This collection includes all the snippets in the cheatsheet when viewed without advanced mode on.  If you'd like to add the snippets with the advanced setting on, you'll want to grab the [Advanced Snippet Collecton](https://github.com/evanmcd/SublimeProcessWireSnippetsAdvanced/)
+A collection of [ProcessWire](http://www.processwire.com) Snippets for Sublime Text 2.  These are based on the [ProcessWire2+ Cheatsheet version 1.1](http://cheatsheet.processwire.com).  This collection includes all the snippets in the cheatsheet when viewed without advanced mode on.  If you'd like to add the snippets with the advanced setting on, you'll want to grab the [Advanced Snippet Collection](https://github.com/evanmcd/SublimeProcessWireSnippetsAdvanced/)
 
 ## Installation
 If you're using Git, the best method is to clone this repository to your ST Packages folder. (on Mac, it's here: /Users/your_username/Library/Application Support/Sublime Text 2/Packages/).
